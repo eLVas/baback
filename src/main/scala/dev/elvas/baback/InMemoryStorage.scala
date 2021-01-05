@@ -1,4 +1,4 @@
-package space.elvas.baback
+package dev.elvas.baback
 
 import scala.collection.mutable.Map
 

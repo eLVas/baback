@@ -1,4 +1,4 @@
-package space.elvas.baback
+package dev.elvas.baback
 
 abstract class Storage {
   def save(stackName: String, note: Note): Unit
